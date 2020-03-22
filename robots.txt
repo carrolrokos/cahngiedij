@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://peonasahy.mediamar.ca/sitemap.xml
